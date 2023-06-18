@@ -2,6 +2,38 @@
 
 Below are features in WillowSMP.
 
+## Custom World Generation
+
+### Overworld
+
+Better looking trees
+
+Lakes and ponds in most biomes
+
+Occasional boulders and rocks
+
+More ground variation (example: coarse dirt mixed with grass)
+
+Tiny islands in oceans
+
+Many biome-specific features
+
+### Nether
+
+8 brand-new biomes 
+
+10 new structures
+
+### End
+
+New height: 384 blocks
+
+Shattered islands 
+
+Floating valleys
+
+Crystallized peaks
+
 ## Modified Core Gameplay
 
 ### Feature Changes
