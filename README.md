@@ -98,6 +98,8 @@ Villagers follow emerald blocks
 
 GUI Shop
 
+Auction House
+
 ## Vehicles
 
 Bikes
