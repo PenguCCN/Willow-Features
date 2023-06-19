@@ -34,6 +34,10 @@ Floating valleys
 
 Crystallized peaks
 
+### Deeper Dark
+
+The Portal in ancient cities will now take you to the deeper dark dimension with better loot (And more danger)
+
 ## Modified Core Gameplay
 
 ### Feature Changes
@@ -69,6 +73,10 @@ Colors allowed on signs
 Elytra's break 50% slower
 
 Armor stands place with arms
+
+## Quality of life
+
+Backpacks
 
 ### Plants
 
