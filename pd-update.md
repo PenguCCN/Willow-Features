@@ -26,7 +26,3 @@ Place any item you want inside your showcases!
 ## Amethyst Traveling
 
 Fast travel between distant places and dimensions using Amethyst and a catalyst!
-
-## End Overhaul
-
-The end generation has been completely overhauled for a more beautiful experience.
