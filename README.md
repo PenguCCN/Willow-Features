@@ -286,6 +286,8 @@ WEIGHT: Slows you down, but gives you better knockback resistance against enemie
 
 ### Deeper Dark Enchantments
 
+- To use these enchantments, drop your armor on the ground and throw the book onto it
+
 CLEARSIGHT - Protects you from Blindness
 
 SONICBOOM - Allows you to shoot sonic lasers
