@@ -283,3 +283,13 @@ VARIETY: Drops other variants of leaves, saplings and logs
 VORTEX: Teleports any loot from mobs straight into your inventory
 
 WEIGHT: Slows you down, but gives you better knockback resistance against enemies
+
+### Deeper Dark Enchantments
+
+CLEARSIGHT - Protects you from Blindness
+
+SONICBOOM - Allows you to shoot sonic lasers
+
+SAFEFALL - Uses XP to Reduce Fall Damage
+
+DARKSPEED - Allows you to move faster in Darkness
