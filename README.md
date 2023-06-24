@@ -288,10 +288,10 @@ WEIGHT: Slows you down, but gives you better knockback resistance against enemie
 
 - To use these enchantments, drop your armor on the ground and throw the book onto it
 
-CLEARSIGHT - Protects you from Blindness
+CLEARSIGHT - Protects you from Blindness (Helmet)
 
-SONICBOOM - Allows you to shoot sonic lasers
+SONICBOOM - Allows you to shoot sonic lasers (Chestplate)
 
-SAFEFALL - Uses XP to Reduce Fall Damage
+SAFEFALL - Uses XP to Reduce Fall Damage (Leggings)
 
-DARKSPEED - Allows you to move faster in Darkness
+DARKSPEED - Allows you to move faster in Darkness (Boots)
