@@ -9,37 +9,37 @@ Time to make our lives a tad easier with our first Quality of life Update!!!!
 
 Craft Elytra's!
 
-[See Recipe](https://static.planetminecraft.com/files/image/minecraft/data-pack/2023/416/17022754-elytra_l.webp)
+[See Recipe](https://willowsmp.xyz/updates/LF-update-01/17022754-elytra_l.webp)
 
 ## Bell Recipe
 
 Craft Bells!
 
-[See Recipe](https://static.planetminecraft.com/files/image/minecraft/data-pack/2023/416/17022754-elytra_l.webp)
+[See Recipe](https://willowsmp.xyz/updates/LF-update-01/17022758-bell_l.webp)
 
 ## Totem of Undying
 
 Craft Totems of Undying!
 
-[See Recipe](https://www.youtube.com/watch?v=NK_BJeARJew)
+[See Recipe](https://willowsmp.xyz/updates/LF-update-01/17022764-totem_l.webp)
 
 ## String Recipe
 
 Reverse Craft String from wool!
 
-[See Recipe](https://www.youtube.com/watch?v=NK_BJeARJew)
+[See Recipe](https://willowsmp.xyz/updates/LF-update-01/17022762-string_l.webp)
 
 ## Name Tag Recipe
 
 Craft Name Tags!
 
-[See Recipe](https://www.youtube.com/watch?v=NK_BJeARJew)
+[See Recipe](https://willowsmp.xyz/updates/LF-update-01/17022690-nametag_l.webp)
 
 ## Chainmail Armor Recipe 
 
 Craft Chainmail armor!
 
-[See Recipe](https://www.youtube.com/watch?v=NK_BJeARJew)
+[See Recipe](https://willowsmp.xyz/updates/LF-update-01/17022773-chestplate_l.webp)
 
 ## Woodland Mansion Villages
 
